@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack development**
 
-- 💬 Ask me about **javaScript,MEARN**
+- 💬 Ask me about **javaScript,MERN**
 
 - 📫 How to reach me **nayeemhossen245@gmail.com**
 
