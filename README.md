@@ -9,9 +9,8 @@
 
 - 💬 Ask me about **javaScript,MERN**
 
-- 📫 How to reach me 
-- **nayeemhossen245@gmail.com**
-- https://www.linkedin.com/in/nayeem-hossen/
+- 📫 How to reach me  **nayeemhossen245@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
