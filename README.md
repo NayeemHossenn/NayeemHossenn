@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nayeem Hossen</h1>
-<h3 align="center">🚀Web & WordPress enthusiast</h3>
+<h3 align="center">🚀Technical Support Engineer | WordPress, Linux & Cloud Hosting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeemhossenn&label=Profile%20views&color=0e75b6&style=flat" alt="nayeemhossenn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔰 I’m currently learning **PHP, WordPress plugin development**
+- 🔰 I’m currently exploring **Linux System Administration, Cloud Infrastructure, Server Security**
 
-- 💬 Ask me about **JavaScript,PHP, WordPress**
+- 💬 Ask me about **Linux, Server Management, Cloud Hosting, WordPress, and Web Performance**
 
 - 📫 How to reach me  **nayeemhossen245@gmail.com**
 
